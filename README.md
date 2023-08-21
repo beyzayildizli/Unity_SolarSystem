@@ -14,7 +14,8 @@ Welcome to my Solar System Simulation project developed using Unity! This is my 
 ## Screenshots
 
 Here's a glimpse of the Solar System Simulation:
-![Solar System](screenshot.png)
+![SolarSystem](https://github.com/beyzayildizli/Unity_SolarSystem/assets/77398074/4f087567-f07f-4a0e-84c4-c942c3148a32)
+
 
 ## Getting Started
 
